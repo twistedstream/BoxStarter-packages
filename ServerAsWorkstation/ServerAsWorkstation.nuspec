@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>ServerAsWorkstation</id>
+    <version>1.0.0</version>
+    <authors>Peter</authors>
+    <owners>Peter</owners>
+    <description>Package description</description>
+    <tags>Boxstarter</tags>
+  </metadata>
+</package>
