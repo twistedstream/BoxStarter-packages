@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <metadata>
-    <id>Grails</id>
+    <id>GrailsWorkstation</id>
     <version>1.0.1</version>
     <authors>twistedstream</authors>
     <owners>twistedstream</owners>

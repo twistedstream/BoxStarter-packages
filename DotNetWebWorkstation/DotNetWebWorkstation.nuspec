@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <metadata>
-    <id>DotNetWeb</id>
+    <id>DotNetWebWorkstation</id>
     <version>1.0.1</version>
     <authors>twistedstream</authors>
     <owners>twistedstream</owners>
