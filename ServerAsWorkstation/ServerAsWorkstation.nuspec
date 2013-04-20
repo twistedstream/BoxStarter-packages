@@ -2,10 +2,14 @@
 <package>
   <metadata>
     <id>ServerAsWorkstation</id>
-    <version>1.0.0</version>
-    <authors>Peter</authors>
-    <owners>Peter</owners>
-    <description>Package description</description>
-    <tags>Boxstarter</tags>
+    <version>1.0.1</version>
+    <authors>twistedstream</authors>
+    <owners>twistedstream</owners>
+    <description>Configures a stock Windows Server OS install as a generic development workstation.
+
+    	The following tools are installed:
+    	Console2, Notepad++, Sublime Text 2, Chrome, Firefox, BeyondCompare, Fiddler, WinDirStat, SysInternals
+    </description>
+    <tags>Boxstarter Server Workstation</tags>
   </metadata>
 </package>

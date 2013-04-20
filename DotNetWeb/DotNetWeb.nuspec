@@ -2,10 +2,16 @@
 <package>
   <metadata>
     <id>DotNetWeb</id>
-    <version>1.0.0</version>
-    <authors>Peter</authors>
-    <owners>Peter</owners>
-    <description>Package description</description>
-    <tags>Boxstarter</tags>
+    <version>1.0.1</version>
+    <authors>twistedstream</authors>
+    <owners>twistedstream</owners>
+    <description>Configures a machine as a .NET web development workstation.  
+
+    	This package should be run after the OS has already been configured as a workstation (ex: via ServerAsWorkstation BoxStarter package http://www.myget.org/feed/twistedstream-boxstarter/package/ServerAsWorkstation).
+
+    	The following tools are installed: 
+    	Visual Studio 2012 (with Update 2), DotPeek, Nuget Package Explorer, Resharper, Paint.NET, WinDbg
+    </description>
+    <tags>.NET web Visual Studio</tags>
   </metadata>
 </package>

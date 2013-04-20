@@ -100,6 +100,7 @@ try {
 
     Install-WindowsUpdate -AcceptEula
     Disable-UAC
+    Disable-InternetExplorerESC
     Update-ExecutionPolicy Unrestricted
     Set-ExplorerOptions -showHidenFilesFoldersDrives -showFileExtensions
     Set-MoreExplorerOptions -lockTheTaskBar -showAllFoldersInExplorerNavigation -automaticallyExpandToCurrentFolderInExplorerNavigation
