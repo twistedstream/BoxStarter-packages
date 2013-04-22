@@ -11,11 +11,6 @@ try {
     cinstm Paint.net
     cinstm windbg
 
-    cinst IIS-WebServerRole -source windowsfeatures
-    cinst IIS-HttpCompressionDynamic -source windowsfeatures
-    cinst IIS-ManagementScriptingTools -source windowsfeatures
-    cinst IIS-WindowsAuthentication -source windowsfeatures
-
     Write-ChocolateySuccess 'DotNetWeb'
 } catch {
   Write-ChocolateyFailure 'DotNetWeb' $($_.Exception.Message)

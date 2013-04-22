@@ -1,16 +1,15 @@
 <?xml version="1.0"?>
 <package>
   <metadata>
-    <id>DotNetToolsWorkstation</id>
+    <id>DotNetWebServerWorkstation</id>
     <version>1.0.1</version>
     <authors>twistedstream</authors>
     <owners>twistedstream</owners>
-    <description>Configures a machine as a .NET development workstation.  
+    <description>Configures a machine as a .NET web server workstation.  
 
     	This package should be run after the OS has already been configured as a workstation (ex: via ServerAsWorkstation BoxStarter package http://www.myget.org/feed/twistedstream-boxstarter/package/ServerAsWorkstation).
 
-    	The following tools are installed: 
-    	Visual Studio 2012 (with Update 2), DotPeek, Nuget Package Explorer, Resharper, Paint.NET, WinDbg
+    	This package enables important IIS capabilities within Windows Server.
     </description>
     <tags>.NET Visual Studio</tags>
   </metadata>
